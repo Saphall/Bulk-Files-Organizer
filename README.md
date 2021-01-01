@@ -50,7 +50,7 @@ If you wish to use 'EXE' file direclty and don't care about the code, follow the
 Your may delete the WinRAR file now.
 
 ## Clone the repo:-
-1. You can clone the repo however if above steps doesn't suit you at any time. 
+1. You can clone the repo ,however, if above steps doesn't suit you at any time. 
       
              git clone https://github.com/Saphall/Bulk-Files-Organizer.git
       
