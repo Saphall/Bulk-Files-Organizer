@@ -22,7 +22,7 @@ The simple GUI helps us do the task simply.The GUI can differ according to OS. H
 
 3. The files are now managed into proper Folders/Directories !
 
-<img src="/Img/Linux_Img/managedDirectory.png" width="49%"> <img src="/Img/Windows_Img/managedFolder.png" width='49%' height='140px'>
+<img src="/Img/Linux_Img/managedDirectory.png" width="49%"> <img src="/Img/Windows_Img/managedFolder.png" width='49%' height='40%'>
 
 ## Use 'EXE' file directly (for windows users):-
 If you wish to use 'EXE' file direclty and don't care about the code, follow the steps below:
