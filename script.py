@@ -20,7 +20,7 @@ DIRECTORIES = {
     "Documents": [".oxps", ".epub", ".pages", ".docx", ".doc", ".fdf", ".ods",
                   ".odt", ".pwi", ".xsn", ".xps", ".dotx", ".docm", ".dox",
                   ".rvg", ".rtf", ".rtfd", ".wpd", ".xls", ".xlsx", ".ppt",
-                  "pptx",".pages",".numbers"],
+                  ".pptx",".pages",".numbers"],
     "Archives": [".a", ".ar", ".cpio", ".iso", ".tar", ".gz", ".rz", ".7z",
                  ".dmg", ".rar", ".xar", ".zip",".xz",".pkg",".deb",".rpm"],
     "DiskImages": [".iso",".img",".vcd",".dmg"],
