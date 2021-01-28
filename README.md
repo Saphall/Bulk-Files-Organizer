@@ -1,6 +1,7 @@
 
 # Bulk Files Organizer
 We have bunch of random files mainly in Desktop, Downloads , Documents or some other directories. If the number of files are large, it takes a lot of time to manage them manually.
+
 Bulk-File-Organizer helps to organize bulk of these random files into proper Directories/Folders instantly and remove un-used empty Directories/Folders as well !
 
 ## How it works:-
