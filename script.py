@@ -38,7 +38,7 @@ DIRECTORIES = {
     "C++": [".cpp"],
     "C": [".c"],
     "GO": [".go"],
-    "YAML": [".yaml"],
+    "YAML": [".yaml", ".yml"],
     "JSON": [".json"],
     "ASP Classic": [".asp"],
     "ASP_NET": [".aspx", ".axd", ".asx", ".asmx", ".ashx"],
